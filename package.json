@@ -1,0 +1,28 @@
+{
+  "name": "management",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "chart.js": "^2.7.3",
+    "express": "^4.16.4",
+    "isomorphic-fetch": "^2.2.1",
+    "morgan": "^1.9.1",
+    "prettier": "^1.14.3",
+    "qs": "^6.6.0",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-redux": "^5.0.7",
+    "react-router": "^4.3.1",
+    "react-scripts": "1.1.5",
+    "redux": "^4.0.0",
+    "redux-thunk": "^2.3.0",
+    "styled-components": "^4.0.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
